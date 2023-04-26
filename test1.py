@@ -1,1 +1,2 @@
+print("great")
 print("hello")
